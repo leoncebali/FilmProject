@@ -1,0 +1,7 @@
+com/training/film/controller/FilmController.class
+com/training/film/util/FilmException.class
+com/training/film/FilmProjectApplication.class
+com/training/film/service/FilmService.class
+com/training/film/model/Film.class
+com/training/film/model/Acteur.class
+com/training/film/repository/FilmRepository.class
